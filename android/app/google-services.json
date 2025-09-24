@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383046324443",
+    "project_id": "placevitaapp",
+    "storage_bucket": "placevitaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383046324443:android:93f6d7a86793b8df84fcfe",
+        "android_client_info": {
+          "package_name": "com.example.place_vitaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0QkHzW5cAfXyHo2EOq1eAFn2FCND6O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,87 @@
+name: guide2hire
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.0
+  cloud_firestore: ^5.5.0
+  google_nav_bar: ^5.0.7
+  pdf: ^3.11.1
+  floating_bottom_bar: ^0.0.3
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  google_fonts: ^6.2.1
+  firebase_auth: ^5.3.3
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/google.jpg
+   - assets/c++.png
+   - assets/javascript.png
+   - assets/dart.png
+   - assets/flutter.png
+   - assets/html-5.png
+   - assets/java.png
+   - assets/wipro.png
+   - assets/accenture.png
+   - assets/loginlogo.png
+   - assets/cognizant.png
+   - assets/infosys.png
+   - assets/tcs.png
+   - assets/javaintern.jpeg
+   - assets/mobileappIntern.jpeg
+   - assets/pythonIntern.jpeg
+   - assets/webintern.jpeg
+   - assets/cyclrhack2.png
+   - assets/hackx3.jpeg
+   - assets/hack4.png
+   - assets/codehack1.jpeg
+   - assets/login.png
+   - assets/Accenture_Img.png
+   - assets/Apple_Img.png 
+   - assets/BNY_Img.png
+   - assets/CapGemini_Img.jpg
+   - assets/Facebook_Img.jpg
+   - assets/freepik__candid-image-photography-natural-textures-highly-r__80059.jpeg
+   - assets/Google_Img.jpg
+   - assets/Infosys_Img.jpg
+   - assets/Hcl_Img.png
+   - assets/tcs.png
+   - assets/wipro.png
+   - assets/hk1.png
+   - assets/hk2.jpg
+   - assets/hk3.jpg
+
+   - assets/hk6.jpg
+   - assets/hk7.png
+   - assets/Netflix_Img.jpg
+   - assets/int1.png 
+   - assets/Int2.jpg
+   - assets/Int3.jpg
+   - assets/int4.png
+   - assets/int5.png
+   - assets/int6.jpg
+   - assets/int7.png  
+   - assets/guide.jpg
+   - assets/gui1.jpg
+   - assets/d.png
+   - assets/guide.jpg
+   - assets/login2.png
+   - assets/login3.png
+   - assets/core.jpg
+
+  
+
+  
